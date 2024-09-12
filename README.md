@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
