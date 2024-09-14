@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/AdwayRakshit/java_dsa_leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
